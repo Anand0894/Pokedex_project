@@ -1,0 +1,27 @@
+.pokemon-list-wrapper{
+    margin: 2rem auto;
+    display: flex;
+   flex-direction: column;
+   align-items: center;
+}
+
+.Pokemon_name{
+    display: flex;
+    justify-content: center;
+}
+.pikachu {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.buttons {
+    padding: 1rem;
+    margin-left: 5px ;
+    border-radius: 5px;
+}
+.pokemon-details-wrapper{
+   display: flex; 
+   flex-direction: column;
+   align-items: center;
+}
